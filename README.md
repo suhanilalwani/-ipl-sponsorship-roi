@@ -34,10 +34,6 @@ Built a composite Sponsor Value Score weighted as:
 This formula reflects priorities of an FMCG or consumer brand 
 seeking broad reach and consistent association over prestige alone.
 
-## Dashboard
-![Dashboard Preview](dashboard_preview.png)
-[View full dashboard PDF](IPL_Sponsorship_ROI_Dashboard.pdf)
-
 ## Tools
 SQL (MySQL) · Microsoft Power BI
 ## Data Source
